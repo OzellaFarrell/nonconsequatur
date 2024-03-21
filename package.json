@@ -1,0 +1,28 @@
+{
+  "name": "nonconsequatur",
+  "version": "1.0.0",
+  "description": "Angular ts numbers and math!",
+  "main": "dist/angular-ts-math.js",
+  "types": "dist/angular-ts-math.d.ts",
+  "dependencies": {
+    "tslint": "^6.1.3",
+    "typescript": "^4.7.4"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OzellaFarrell/nonconsequatur.git"
+  },
+  "keywords": [
+    "sit",
+    "laboriosam",
+    "ts",
+    "angular-ts",
+    "eius",
+    "architecto",
+    "typescript",
+    "angular2"
+  ],
+  "author": "AnsleyBraun",
+  "homepage": "https://github.com/OzellaFarrell/nonconsequatur.git"
+}
